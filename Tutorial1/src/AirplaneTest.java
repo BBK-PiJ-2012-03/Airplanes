@@ -46,6 +46,6 @@ public class AirplaneTest {
 		stringReturned = classUnderTest.howDoYouFly();
 		
 		assertEquals("Wrong Answer !", stringReturned, expectedOutput);
-		
+		//testing commiting
 	}
 }
